@@ -49,9 +49,10 @@ data/*.csv
 !data/.gitkeep
 
 # Generated outputs (can be reproduced)
-outputs/
-*.png
-*.txt
+outputs/*.png
+outputs/*.txt
+outputs/*.csv
+outputs/pyspark/
 
 # OS
 .DS_Store
