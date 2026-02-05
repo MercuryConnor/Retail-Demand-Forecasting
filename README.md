@@ -451,10 +451,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-**Project Maintainer**: [Your Name]  
-**Email**: your.email@example.com  
-**LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)  
-**Portfolio**: [Your Portfolio Website](https://yourportfolio.com)
+**Project Maintainer**: Mrityunjay Chauhan  
+**Email**: mrityunjaychauhan0102@gmail.com  
+**LinkedIn**: [linkedin.com/in/mrityunjay-chauhan-5b1813265](https://www.linkedin.com/in/mrityunjay-chauhan-5b1813265/)
 
 ---
 
