@@ -1,0 +1,9 @@
+pyspark==4.0.0
+pandas==2.3.1
+matplotlib==3.10.3
+seaborn==0.13.2
+numpy==2.3.2
+jupyter
+prophet==1.1.7
+xgboost==3.0.2
+scikit-learn==1.7.1
