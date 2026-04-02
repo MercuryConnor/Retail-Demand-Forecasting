@@ -15,7 +15,7 @@
 - [Key Features](#key-features)
 - [Data Sources](#data-sources)
 - [Installation](#installation)
-- [Usage](#usage)
+- [Usage](#usage) 
 - [Output Structure](#output-structure)
 - [Technologies](#technologies)
 - [Project Highlights](#project-highlights)
