@@ -1,0 +1,42 @@
+DATA VALIDATION REPORT
+Generated: 2026-04-02 21:59:53.394831
+============================================================
+
+1. SCHEMA VALIDATION
+   [PASS] Train schema validated
+   [PASS] Features schema validated
+   [PASS] Stores schema validated
+
+2. ROW COUNT VALIDATION
+   Train rows: 421,570
+   Features rows: 8,190
+   Stores rows: 45
+   Merged dataset rows: 421,570
+   [PASS] Join integrity validated (no row explosion)
+
+3. NULL VALUE VALIDATION
+   Critical columns null counts:
+   Store: 0
+   Dept: 0
+   Date: 0
+   Weekly_Sales: 0
+   Type: 0
+   Size: 0
+   [PASS] Weekly_Sales has no nulls
+
+4. DATE PARSING VALIDATION
+   [PASS] Date column parsed as datetime
+   Date range: 2010-02-05 00:00:00 to 2012-10-26 00:00:00
+   Total weeks: 143
+
+5. DATA QUALITY CHECKS
+   Negative Weekly_Sales: 1285
+   Duplicate Store-Dept-Date: 0
+   [PASS] No duplicates in Store-Dept-Date
+   Unique Stores: 45
+   Unique Departments: 81
+   Store Types: {'A': 215478, 'B': 163495, 'C': 42597}
+
+============================================================
+VALIDATION COMPLETE - PIPELINE READY
+============================================================
